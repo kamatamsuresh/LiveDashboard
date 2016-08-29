@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\bin\Debug\CreateLogs.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\obj\Debug\CreateLogs.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\bin\Debug\CreateLogs.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\bin\Debug\CreateLogs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\obj\Debug\CreateLogs.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\obj\Debug\CreateLogs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CreateLogs\CreateLogs\bin\Debug\MySql.Data.dll
+C:\Users\Kamatam\Desktop\LiveDashboard\CreateLogs\CreateLogs\bin\Debug\CreateLogs.exe.config
+C:\Users\Kamatam\Desktop\LiveDashboard\CreateLogs\CreateLogs\obj\Debug\CreateLogs.exe
+C:\Users\Kamatam\Desktop\LiveDashboard\CreateLogs\CreateLogs\obj\Debug\CreateLogs.pdb
